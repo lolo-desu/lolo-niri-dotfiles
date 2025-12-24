@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+
+# Waybar cache or generated files (if any)
+.cache/
+
+# Niri generated state (if any)
+state.json
+
+# Logs
+*.log
